@@ -113,6 +113,7 @@ menu {
 .menu-title {
   margin-bottom: 20px;
   font-size: 2em;
+  color: cyan;
 }
 
 .menu {
@@ -177,5 +178,3 @@ footer a {
   color: #f5b400;
   text-decoration: none;
 }
-
-

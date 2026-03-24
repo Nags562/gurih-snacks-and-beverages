@@ -70,18 +70,14 @@ nav ul li {
 }
 
 .about {
-  text-align: center;
-  padding: 50px;
-
-}
-
-.about {
   max-width: 800px;
   margin: 40px auto;
-  padding: 20px;
+  padding: 50px;
   background-color: #fff9f0;
+  text-align: center;
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 0px 2px 6px; */
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: #4a3c31;
   line-height: 1.6;
